@@ -10,7 +10,7 @@ import streamlit as st
 # Exemplo:
 # CSV_URL = "https://raw.githubusercontent.com/TEU_UTILIZADOR/TEU_REPO/main/data/dividend_kings_latest.csv"
 # Se deixares vazio, o dashboard lê o ficheiro local.
-CSV_URL = ""
+CSV_URL = "https://raw.githubusercontent.com/cybermainframe/dividend-kings-dashboard/refs/heads/main/data/dividend_kings_latest.csv"
 
 ROOT = Path(__file__).resolve().parent
 LOCAL_CSV = ROOT / "data" / "dividend_kings_latest.csv"
