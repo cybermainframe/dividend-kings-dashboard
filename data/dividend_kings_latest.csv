@@ -1,51 +1,48 @@
 date,ticker,name,sector,industry,price,low_52w,high_52w,pct_from_low,pct_from_high,dividend_yield_pct,trailing_pe,market_cap,updated_at
-2026-10-19,UVV,Universal Corporation,Consumer Defensive,Tobacco,40.09,40.09,56.41,0.0,-28.93,8.16,52.75,998211200.0,2026-10-19T14:06:27.275636+00:00
-2026-10-19,NFG,National Fuel Gas Company,Energy,Oil & Gas Integrated,79.26,74.1,95.34,6.96,-16.86,2.78,11.04,7533274624.0,2026-10-19T14:06:12.067142+00:00
-2026-10-19,PEP,"Pepsico, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,132.38,123.47,166.41,7.22,-20.45,4.5,16.65,180406468608.0,2026-10-19T14:06:16.569428+00:00
-2026-10-19,RPM,RPM International Inc.,Basic Materials,Specialty Chemicals,99.1,91.96,120.52,7.76,-17.78,2.29,18.32,12637950976.0,2026-10-19T14:06:11.067103+00:00
-2026-10-19,HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,20.38,18.77,26.03,8.55,-21.72,5.74,32.86,11213396992.0,2026-10-19T14:06:25.225534+00:00
-2026-10-19,FUL,H. B. Fuller Company,Basic Materials,Specialty Chemicals,50.79,46.47,67.72,9.29,-25.0,1.91,14.15,2733980928.0,2026-10-19T14:06:03.416830+00:00
-2026-10-19,TNC,Tennant Company,Industrials,Specialty Industrial Machinery,65.3,59.62,91.52,9.53,-28.65,1.9,62.79,1113319552.0,2026-10-19T14:06:27.776833+00:00
-2026-10-19,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,195.68,178.45,289.87,9.66,-32.49,2.53,16.54,109787045888.0,2026-10-19T14:06:10.074898+00:00
-2026-10-19,NWN,Northwest Natural Holding Compa,Utilities,Utilities - Regulated Gas,48.73,43.15,54.92,12.94,-11.28,4.08,16.19,2051218048.0,2026-10-19T14:06:04.963298+00:00
-2026-10-19,CWT,California Water Service Group,Utilities,Utilities - Regulated Water,45.71,40.39,53.46,13.15,-14.51,2.89,20.5,2826356224.0,2026-10-19T14:06:17.078456+00:00
-2026-10-19,FTS,Fortis Inc.,Utilities,Utilities - Regulated Electric,55.32,48.39,58.92,14.33,-6.1,3.32,22.49,28262987776.0,2026-10-19T14:06:19.654536+00:00
-2026-10-19,TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,Confectioners,38.13,33.13,44.84,15.1,-14.97,94.0,30.26,2865967360.0,2026-10-19T14:06:14.591342+00:00
-2026-10-19,ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,270.22,232.87,299.98,16.04,-9.92,2.53,24.5,76958654464.0,2026-10-19T14:06:17.577400+00:00
-2026-10-19,CINF,Cincinnati Financial Corporatio,Financial Services,Insurance - Property & Casualty,170.45,146.7,193.71,16.19,-12.01,2.2,8.05,26159566848.0,2026-10-19T14:06:24.732199+00:00
-2026-10-19,KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,104.79,90.09,117.1,16.32,-10.51,4.85,20.67,34784030720.0,2026-10-19T14:06:23.745260+00:00
-2026-10-19,PPG,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,106.85,91.35,130.99,16.97,-18.43,2.76,15.35,23752755200.0,2026-10-19T14:06:20.687608+00:00
-2026-10-19,PG,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,158.2,134.62,164.77,17.51,-3.99,2.73,23.9,367725314048.0,2026-10-19T14:06:22.770131+00:00
-2026-10-19,DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,195.49,165.24,235.79,18.31,-17.09,1.07,23.64,26328907776.0,2026-10-19T14:06:18.083646+00:00
-2026-10-19,CBSH,"Commerce Bancshares, Inc.",Financial Services,Banks - Regional,55.17,46.52,60.63,18.57,-9.02,1.98,13.52,7912436224.0,2026-10-19T14:06:21.214073+00:00
-2026-10-19,SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,425.79,358.55,518.88,18.75,-17.94,90.0,26.01,125522894848.0,2026-10-19T14:06:20.184355+00:00
-2026-10-19,MSA,MSA Safety Incorporated,Industrials,Security & Protection Services,178.49,149.32,207.14,19.54,-13.83,1.21,22.2,6886031360.0,2026-10-19T14:06:15.089625+00:00
-2026-10-19,ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,111.03,92.43,114.33,20.11,-2.89,3.16,18.29,41060225024.0,2026-10-19T14:06:19.196276+00:00
-2026-10-19,WMT,Walmart Inc.,Consumer Defensive,Discount Stores,118.89,98.05,134.84,21.25,-11.82,83.0,43.08,943282716672.0,2026-10-19T14:06:09.557765+00:00
-2026-10-19,AWR,American States Water Company,Utilities,Utilities - Regulated Water,82.15,67.63,91.72,21.46,-10.43,2.61,22.51,3256066560.0,2026-10-19T14:06:06.428761+00:00
-2026-10-19,FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,105.24,86.33,126.84,21.9,-17.03,4.36,21.26,9147292672.0,2026-10-19T14:06:26.299157+00:00
-2026-10-19,SYY,Sysco Corporation,Consumer Defensive,Food Distribution,81.51,66.76,89.92,22.1,-9.35,2.68,22.27,40098365440.0,2026-10-19T14:06:08.012123+00:00
-2026-10-19,MSEX,Middlesex Water Company,Utilities,Utilities - Regulated Water,53.92,43.01,60.55,25.35,-10.95,2.64,20.82,1016065536.0,2026-10-19T14:06:11.573125+00:00
-2026-10-19,CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,93.43,73.22,98.15,27.6,-4.82,2.25,36.78,74475872256.0,2026-10-19T14:06:15.605357+00:00
-2026-10-19,BKH,Black Hills Corporation,Utilities,Utilities - Regulated Gas,76.68,59.93,78.0,27.95,-1.69,3.67,19.32,5847472128.0,2026-10-19T14:06:10.573215+00:00
-2026-10-19,ABT,Abbott Laboratories,Healthcare,Medical Devices,104.49,80.89,128.83,29.17,-18.89,2.4,33.71,182002057216.0,2026-10-19T14:06:03.933779+00:00
-2026-10-19,EMR,Emerson Electric Company,Industrials,Specialty Industrial Machinery,161.22,121.73,165.79,32.44,-2.76,1.37,35.83,90299318272.0,2026-10-19T14:06:04.465640+00:00
-2026-10-19,PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,966.08,728.65,1097.73,32.58,-11.99,83.0,33.92,121834684416.0,2026-10-19T14:06:02.420727+00:00
-2026-10-19,UBSI,"United Bankshares, Inc.",Financial Services,Banks - Regional,46.53,33.46,49.22,39.09,-5.46,3.26,12.68,6338597888.0,2026-10-19T14:06:21.708594+00:00
-2026-10-19,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,253.55,180.59,281.07,40.4,-9.79,2.1,38.47,611029745664.0,2026-10-19T14:06:07.474458+00:00
-2026-10-19,ABM,ABM Industries Incorporated,Industrials,Specialty Business Services,51.21,36.22,52.1,41.35,-1.72,2.27,18.55,3001360384.0,2026-10-19T14:06:22.223037+00:00
-2026-10-19,KVUE,Kenvue Inc.,Consumer Defensive,Household & Personal Products,18.77,13.22,19.67,42.03,-4.57,4.44,21.83,36062523392.0,2026-10-19T14:06:23.223775+00:00
-2026-10-19,KO,Coca-Cola Company (The),Consumer Defensive,Beverages - Non-Alcoholic,93.76,65.91,94.1,42.27,-0.36,2.26,28.16,403428507648.0,2026-10-19T14:06:14.100461+00:00
-2026-10-19,MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,74.41,52.17,75.85,42.62,-1.9,5.91,15.67,124245647360.0,2026-10-19T14:06:25.807996+00:00
-2026-10-19,NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,321.27,220.54,338.18,45.67,-5.0,1.17,32.52,17900226560.0,2026-10-19T14:06:13.066453+00:00
-2026-10-19,FMCB,Farmers & Merchants Bancorp,Financial Services,Banks - Regional,1437.1,981.13,1533.97,46.47,-6.31,1.55,10.29,994392704.0,2026-10-19T14:06:16.064535+00:00
-2026-10-19,GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,1328.65,901.22,1417.14,47.43,-6.24,75.0,33.89,62729711616.0,2026-10-19T14:06:13.557556+00:00
-2026-10-19,GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,133.27,89.11,147.43,49.56,-9.6,3.17,533.08,18372571136.0,2026-10-19T14:06:06.939485+00:00
-2026-10-19,ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,285.57,188.25,291.4,51.7,-2.0,2.42,80.67,504635719680.0,2026-10-19T14:06:05.929382+00:00
-2026-10-19,ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,82.38,54.0,88.75,52.55,-7.18,2.52,22.57,39703576576.0,2026-10-19T14:06:12.566538+00:00
-2026-10-19,SCL,Stepan Company,Basic Materials,Specialty Chemicals,62.01,40.57,66.55,52.85,-6.82,2.55,,1409644800.0,2026-10-19T14:06:08.534129+00:00
-2026-10-19,BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,190.42,124.47,195.99,52.98,-2.84,2.19,44.28,51867897856.0,2026-10-19T14:06:02.923655+00:00
-2026-10-19,SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,91.54,59.35,103.78,54.24,-11.79,3.63,22.38,13824818176.0,2026-10-19T14:06:09.041283+00:00
-2026-10-19,GRC,Gorman-Rupp Company (The),Industrials,Specialty Industrial Machinery,72.2,41.98,92.56,71.97,-22.0,1.06,30.46,1906819584.0,2026-10-19T14:06:24.237345+00:00
-2026-10-19,TGT,Target Corporation,Consumer Defensive,Discount Stores,155.03,81.2,170.75,90.92,-9.21,3.01,16.1,70428803072.0,2026-10-19T14:06:05.461456+00:00
-2026-10-19,NUE,Nucor Corporation,Basic Materials,Steel,257.87,132.23,279.45,95.01,-7.72,87.0,20.56,58504429568.0,2026-10-19T14:06:18.640412+00:00
+2026-10-26,UVV,Universal Corporation,Consumer Defensive,Tobacco,39.44,38.11,56.41,3.49,-30.08,8.45,49.92,982026624.0,2026-10-26T13:40:00.656913+00:00
+2026-10-26,TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,Confectioners,34.4,33.13,44.84,3.86,-23.28,1.04,27.31,2585984768.0,2026-10-26T13:39:37.582317+00:00
+2026-10-26,FUL,H. B. Fuller Company,Basic Materials,Specialty Chemicals,50.06,46.47,67.72,7.72,-26.08,1.98,13.94,2694685696.0,2026-10-26T13:39:16.709591+00:00
+2026-10-26,RPM,RPM International Inc.,Basic Materials,Specialty Chemicals,98.75,91.43,119.83,8.0,-17.59,2.31,18.25,12593951744.0,2026-10-26T13:39:31.089274+00:00
+2026-10-26,NFG,National Fuel Gas Company,Energy,Oil & Gas Integrated,80.9,74.1,95.34,9.17,-15.14,2.76,11.27,7689148416.0,2026-10-26T13:39:33.022220+00:00
+2026-10-26,PEP,"Pepsico, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,136.48,123.47,166.41,10.54,-17.99,4.36,17.17,185986908160.0,2026-10-26T13:39:41.246895+00:00
+2026-10-26,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,198.69,177.33,288.04,12.05,-31.02,2.52,16.8,111475826688.0,2026-10-26T13:39:29.243732+00:00
+2026-10-26,HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,21.08,18.77,26.03,12.33,-18.99,5.56,34.01,11604146176.0,2026-10-26T13:39:57.054827+00:00
+2026-10-26,NWN,Northwest Natural Holding Compa,Utilities,Utilities - Regulated Gas,49.81,43.15,54.92,15.44,-9.31,4.01,16.55,2096679040.0,2026-10-26T13:39:19.742651+00:00
+2026-10-26,DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,202.18,174.61,235.79,15.79,-14.25,1.05,23.59,27229646848.0,2026-10-26T13:39:44.037835+00:00
+2026-10-26,CWT,California Water Service Group,Utilities,Utilities - Regulated Water,47.3,40.39,53.46,17.1,-11.53,2.79,21.21,2925014272.0,2026-10-26T13:39:42.181694+00:00
+2026-10-26,PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,887.0,748.86,1097.73,18.45,-19.2,91.0,31.14,111861710848.0,2026-10-26T13:39:14.901805+00:00
+2026-10-26,ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,278.58,232.87,299.98,19.63,-7.13,2.5,25.26,79339577344.0,2026-10-26T13:39:43.095614+00:00
+2026-10-26,FTS,Fortis Inc.,Utilities,Utilities - Regulated Electric,57.89,48.39,58.92,19.64,-1.74,3.2,23.53,29576001536.0,2026-10-26T13:39:46.875680+00:00
+2026-10-26,PG,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,160.54,133.74,165.75,20.04,-3.14,2.7,24.18,372096860160.0,2026-10-26T13:39:52.453762+00:00
+2026-10-26,CINF,Cincinnati Financial Corporatio,Financial Services,Insurance - Property & Casualty,177.95,146.7,193.71,21.3,-8.13,2.13,8.4,27311417344.0,2026-10-26T13:39:56.160067+00:00
+2026-10-26,CBSH,"Commerce Bancshares, Inc.",Financial Services,Banks - Regional,56.61,46.52,60.63,21.68,-6.63,1.96,13.64,8119695360.0,2026-10-26T13:39:49.600118+00:00
+2026-10-26,PPG,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,111.43,91.35,130.99,21.98,-14.93,2.68,16.01,24770889728.0,2026-10-26T13:39:48.735628+00:00
+2026-10-26,WMT,Walmart Inc.,Consumer Defensive,Discount Stores,120.17,98.05,134.84,22.55,-10.88,83.0,43.54,956282568704.0,2026-10-26T13:39:28.309927+00:00
+2026-10-26,KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,110.56,90.09,117.1,22.73,-5.58,4.65,21.81,36769939456.0,2026-10-26T13:39:54.309695+00:00
+2026-10-26,SYY,Sysco Corporation,Consumer Defensive,Food Distribution,82.36,66.76,89.92,23.38,-8.4,2.7,22.5,40516493312.0,2026-10-26T13:39:25.424616+00:00
+2026-10-26,MSA,MSA Safety Incorporated,Industrials,Security & Protection Services,185.05,149.32,207.14,23.93,-10.66,1.19,22.87,7138912256.0,2026-10-26T13:39:38.501463+00:00
+2026-10-26,SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,450.14,358.55,518.88,25.54,-13.25,86.0,27.4,132699799552.0,2026-10-26T13:39:47.883592+00:00
+2026-10-26,ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,116.11,92.43,116.5,25.61,-0.34,3.07,19.13,42938953728.0,2026-10-26T13:39:45.870418+00:00
+2026-10-26,FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,109.48,86.33,126.84,26.81,-13.68,4.27,22.12,9570560000.0,2026-10-26T13:39:58.897470+00:00
+2026-10-26,ABT,Abbott Laboratories,Healthcare,Medical Devices,103.85,80.89,128.83,28.38,-19.39,2.43,38.61,179700301824.0,2026-10-26T13:39:17.749968+00:00
+2026-10-26,CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,93.72,72.8,97.6,28.73,-3.97,2.25,36.9,74711031808.0,2026-10-26T13:39:39.440339+00:00
+2026-10-26,MSEX,Middlesex Water Company,Utilities,Utilities - Regulated Water,56.62,43.01,60.55,31.62,-6.5,2.57,20.97,1066850048.0,2026-10-26T13:39:31.928618+00:00
+2026-10-26,BKH,Black Hills Corporation,Utilities,Utilities - Regulated Gas,79.95,59.93,80.22,33.4,-0.34,3.54,20.14,6096438784.0,2026-10-26T13:39:30.145154+00:00
+2026-10-26,EMR,Emerson Electric Company,Industrials,Specialty Industrial Machinery,162.68,121.73,165.79,33.64,-1.87,1.37,35.6,90742898688.0,2026-10-26T13:39:18.718847+00:00
+2026-10-26,GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,123.94,89.11,147.43,39.1,-15.93,3.45,476.71,17087028224.0,2026-10-26T13:39:23.495148+00:00
+2026-10-26,KO,Coca-Cola Company (The),Consumer Defensive,Beverages - Non-Alcoholic,92.16,65.91,95.37,39.83,-3.37,2.29,27.68,396565938176.0,2026-10-26T13:39:36.693163+00:00
+2026-10-26,MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,74.17,52.17,76.09,42.16,-2.52,5.98,15.61,123844902912.0,2026-10-26T13:39:57.967359+00:00
+2026-10-26,NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,320.95,220.54,338.18,45.53,-5.09,1.18,32.48,17876713472.0,2026-10-26T13:39:34.891218+00:00
+2026-10-26,UBSI,"United Bankshares, Inc.",Financial Services,Banks - Regional,49.16,33.46,49.22,46.94,-0.13,3.12,13.36,6694281728.0,2026-10-26T13:39:50.455450+00:00
+2026-10-26,ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,80.2,54.0,88.75,48.5,-9.64,2.6,21.97,38650990592.0,2026-10-26T13:39:34.046386+00:00
+2026-10-26,KVUE,Kenvue Inc.,Consumer Defensive,Household & Personal Products,19.64,13.22,19.89,48.55,-1.28,4.29,22.83,37716307968.0,2026-10-26T13:39:53.312308+00:00
+2026-10-26,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,268.64,180.59,281.07,48.76,-4.42,2.03,40.76,646699876352.0,2026-10-26T13:39:24.574456+00:00
+2026-10-26,ABM,ABM Industries Incorporated,Industrials,Specialty Business Services,54.27,36.22,54.29,49.82,-0.04,2.16,19.66,3181014016.0,2026-10-26T13:39:51.494619+00:00
+2026-10-26,GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,1364.97,901.22,1417.14,51.46,-3.68,74.0,34.81,64291373056.0,2026-10-26T13:39:35.766405+00:00
+2026-10-26,ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,287.92,188.25,291.4,52.95,-1.2,2.42,81.33,508779593728.0,2026-10-26T13:39:21.568954+00:00
+2026-10-26,SCL,Stepan Company,Basic Materials,Specialty Chemicals,64.36,40.57,66.55,58.65,-3.28,2.47,,1461943040.0,2026-10-26T13:39:26.371866+00:00
+2026-10-26,BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,197.82,124.47,200.47,58.93,-1.32,2.11,46.0,53883559936.0,2026-10-26T13:39:15.798960+00:00
+2026-10-26,SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,100.06,59.35,103.78,68.58,-3.58,3.39,24.46,15110724608.0,2026-10-26T13:39:27.303787+00:00
+2026-10-26,GRC,Gorman-Rupp Company (The),Industrials,Specialty Industrial Machinery,75.48,41.98,92.56,79.78,-18.45,1.03,26.96,1993445248.0,2026-10-26T13:39:55.281437+00:00
+2026-10-26,TGT,Target Corporation,Consumer Defensive,Discount Stores,153.18,81.2,170.75,88.64,-10.29,3.04,15.91,69589172224.0,2026-10-26T13:39:20.637758+00:00
+2026-10-26,NUE,Nucor Corporation,Basic Materials,Steel,259.68,137.6,279.45,88.72,-7.07,87.0,20.71,58915074048.0,2026-10-26T13:39:44.987391+00:00
